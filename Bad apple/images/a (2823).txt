@@ -1,0 +1,66 @@
+BBBBBBWBBBB00008088ZZaaS2XSXSXSXX77rr;rrr7XS2aZZ00BBWW@W@W@W@@M@@WWBB000088ZZaaSSXXr;:,                                                               
+B0000B0B0B0088Z8Z8ZZ22XX7X7rr7r7;;ii:i:ii;r7X22aZ88BBWWWW@W@W@W@WW008888Z8aa2SXXr7;i,.                                                                
+B0B0B0B000000808088ZZa2SSXX7X7X77r7;;;rrr7XXS2ZaZZ00BBWWWW@WWWWBWBB008888ZZa2SX7X77;i:,                                                               
+WBBB0B00808080Z888ZZaa22XXXX77r7rrr;;;;rr77SX22aaZZZ80BWWWWWBB0B0B0088ZZZZa2SS7777;;::.                                                               
+WBWBB00008088Z8Z8ZZZa22SSXX7Xr7rr;;;;i;rrrXXS2aaZZZZ880BWBBBB00008088ZZZZa2SSX7rr;;::.                                                                
+WWWBBB000088Z888ZZZZaa22XXXX77rr;;i;i;;rr77XX22aaZZZZ8800BBB008088Z8ZZaZ22SSXXrr;;i,.                                                                 
+@W@BWBB000088Z888ZZaZ22SSXX7X7rrriiiii;r7r7XSS22ZZZZZZ88B0B808888ZZZZaa22SSXXrrii::                                                                   
+MMMM@@WWBB00B@WW08ZZaa22SXXX77rr;;iii;;rr77XS22aaaaZZZZ8008088ZZZZaZaa22XXX7rrii,,                                                                    
+SrXXZ0MMMMMM0Xr7808ZZaa22XX77rr;;iii;i;;rrXXSSa2aaZZ8Z8Z888ZZZZZZaa222SXX77rr;i,,                                                                     
+BZX:    :rZ7     WWWBB08ZaXXrr;ri;iii;;rr7XXX22a2ZZZZ8Z8Z8ZZZZaaaa2SSSXXr7;r;i:,                                                                      
+MMMMMMBS        78r.,.:i;X2X7;riiii:ii;r7rXXSSaaZaZaZZ8Z8ZZZZaa2a22XXXXrr;;ii:,                                                                       
+WWW@WMMMi       .         ;27r;;iiiii;;rr77XXS2aaZZZZZZZZZaa2a22S2XX77r;ii::..                                                                        
+@WWWWMW                    XS;;iiiii;;;r77XXSSaaaaZZZZZZZaa22S2SSXXrr;;ii:,                                                                           
+@@W@WM                     XS7;;iii;i;r7rXXSS22ZaZaZZZZZaa22XSXXXX7r;;i:,.                                                                            
+MW@W@MW;,iBX                ,X7;;i;i;;77XXSS22aaZZZZZZZaa22SXXX7Xrrii::..                                                                             
+@@@@WMMMMMMr                 r7r;;;;;rrXXSS22aaZZ8Z8ZZaa22XXX777r;ii::..                                                                              
+M@M@@@M@MMM                   X;;;r;rr77XX22ZaZZ88888ZZa2SXXXrr;;i:,,..                                                                               
+MM@M@@@@@MM                 ,77r;;;rrrrXXSSaaZZ8808080ZZa2X7rr;i::,.                                                                                  
+M@MMM@@@MMM7                7ZXr;ir;r;r7XXS2aZ880000B88ZaSX7r;i::,,                                                                                   
+@M@MMM@@@MMM                 ,XS7r;r;rr77XX22ZZ8800BBB88a2XX;;::,.                                                                                    
+M@MMMMM@MMMMi                  ,rXXrrrr7XXXS2aZZ00BBBB08Z2S7rii,. .                                                                                   
+MMMMMM@M@MMM2                     ;277r77XXS2aZ8800BBB00ZaSXr;,, .                                                                                    
+MMMMMMMMM@MM;                      ;2X77XXSSaaZZ8800B0B88a27ri:.  .                                                                                   
+MMMMMMMMMMMM                        ,XSSXXXS2aZ8Z88000008ZSS7;:,..                                                                                    
+MMMMMMMMMMM,                          ,;2SXXS2ZZ880000088aaX7;i,,..                                                                                   
+MMMMMMMMMM7                              7SXX22aZ00B0B008Z2X7;i:,,                                                                                    
+MMMMMMMMM7                                2XSS22ZZ00BB088ZaX7;;:,                                                                                     
+MMMMMMMMX                                r2SS22aaZZ00BB08ZaSri:,                                                                                      
+MMMMMMMX                                :Z2S22aZZZ88BBB88ZaXri,                                                                                       
+MMMMMMS                                 X822aZZ8ZZZ8Z8888Z2X;:                                                                                        
+MMMMM0                                  2Z22ZZ8Z8Z8ZZaaZZ2Xr;,,                                                                                       
+MMMMM                  ,    .           XZ22aZZ888Z8ZZ2aa2r;ii:.                                                                                      
+MMMM;                 Zr    rr          rZ22aaZZ8Z8ZZaa22Xr;;i:                                                                                       
+MMMM                  M,    r;          ,ZS22aaZaZZ8ZZa2XXr;;;:,                                                                                      
+MMMM                 iM X                a2S22aaZZZZZZa2SXr;;::.                                                                                      
+MMMM                 MM M,               XaSS22aaZZZZZa2SS7rii,.                                                                                      
+MMMM                7M0;M,               ,ZSSS22aaaaZaZaZ2X7ri:                                                                                       
+MMMB                MM@MW                 aZS2S22aaZZ8Z8ZaSXri:.                                                                                      
+MMM7 ,       :,    XMMMMi                 i0a22S22ZZZZ8ZZ2SX7i:                                                                                       
+MMM7       0S 02  .MMMMM                   8ZZ22222aZZZZaaSXr;,.                                                                                      
+MMMB      .MM7@.   8MMM                    iWZZaa2aaZZ8ZZ2SX7;i.                                                                                      
+MMMMX  Za0MMMM      MM7                     0B88ZZaaaZZaaaSX7ri:                                                                                      
+MMMMMBBMMMMMM   :M;7MW                      ;M088ZZZZZZaa22XX7ri,                                                                                     
+MMMMMMMMMMMMa   MMMMM                        0W8Z8ZZZZZZaa22SX7r:,                                                                                    
+MMMMMMMMMMMMM  iMMMM                         :M0888ZZZZaZaa22SX7;:,                                                                                   
+MMMMMMMMMMMMMZ 7MMM.                          ZW88Z8ZZZaaZaZaaSXrri:                                                                                  
+MMMMMMMMMMMMMMiBMM:                           .W0ZZZ8ZZaa2ZZZaaSX7ri:.                                                                                
+MMMMMMMMMMMMMMMMM:                             2W8ZZZZZZaaaZZZa2SX7ri:.                                                                               
+MMMMMMMMMMMMMMMM,                               @8ZZZZZaZaZZZZZaaSSX7;i.                                                                              
+MMMMMMMMMMMMMMM,                                8@ZZZZZ8ZZZZZZZZZZaaSXr;,                                                                             
+MMMMMMMMMMMMMMX                                  BBZ8Z88888Z8Z888ZZZZSX7;:.                                                                           
+MMMMMMMMMMMMMX                                   r@08880888888888088ZZ2S7ri,                                                                          
+MMMMMMMMMMMM.                                     0B08080808000000B0088a2X7i:                                                                         
+MMMMMMMMMMM7                                      7@0088Z00B0BBB0BBB0B08ZaXXr;,.                                                                      
+MMMMMMMMMMi                                       .@B88888BBBBBBBBB0B0088a2XX7ri:.                                                                    
+MMMMMMMMMZ                                         8W0Z8Z88B0B0B0BBB000088aSXX7ri:.                                                                   
+MMMMMMMM@                                          ZBZZZZZZZ08880808000008Z2SSX77;i,.                                                                 
+MMMMMMMM                                           2ZZaZZZaaaZZZZ8Z8800080Za2aaaXXr;,.                                                                
+MMMMMMMM.                                          72X2S2XSXS2aZZZZZ88088Z8aZaZaaSXr;:,                                                               
+MMMMMMMW                                           ;SX7X777XXXX22aaZZ8Z8Z8ZZaZaZZaSXrri:.                                                             
+MMMMMMM@ ,:  .,                                    72XX7X777X7X7XXS2aaZaZaZaZaZZZZaSSX7;i.                                                            
+MMMMMMMMMMMMMMMM:                              :aa22XSXX777X777X7XXSXS2aaZZZaZa8Z8ZZ22XX7;,.                                                          
+MMMMMMMMMMMMMMMMM                             ;08a2XXXX777777r77X7XXXX2aZZZZZZ880808Za2SS7;:.                                                         
+MMMMMMMMMMMMMMMMMMMMMMMMX            ZMM@BZa2Z8ZSSXX7X777rrrr7r77X7XXXSaaZZZZ8800B0088Za2Xrri:                                                        
+MMMMMMMMMMMMMMMMMMMMMMMMa    :MM0    @M@@WWWW8a2SXX7X7X77rrr7rXXXXSXSS22ZZZ800BBBBBBB08Za22XXr:.                                                      
+MMMMMMMMMMMMMMMMMMMMMMMM     MMMM    MMB0088Z8a2SX77r7rr;r;rr77XXSX2S22aZ8800BBBBWBWBB88ZZ2SXX;i                                                      

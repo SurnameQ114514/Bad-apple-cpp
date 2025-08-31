@@ -1,0 +1,66 @@
+:                                                             ..,.                                                                                    
+:                                                                                                                                                     
+i ,..                                                       ,,:::,:                                                                                   
+i.,,.                                                       ,i:i:i,,                                                                                  
+i.:,,                                                       ,,:i;i,..                                                                                 
+i,:,..                                                       .:;ii,,                                         .                                        
+;,i,,.                                                        :i;::.                                         ....                                     
+i:::..                                                       .:i::,:                                         ....                                     
+;,i:,                                                         ,::,:.                                          ...                                     
+i:::,.                                                       ..:,,..                                           ,..                                    
+i,i:,,.                                                     .,,,,,.                                           ..,..                                   
+i,::::..                                                   .,i::,,.                                            ,,,..                                  
+i.i::,:.                                                  .,iii::,.                                           ..:.,..                                 
+i,::,,,.                            .:                   .,:i;ii,,                                             ..,....                                
+i.i:,.,.         .,                  ,i                 ..::iii::.                                              .....                                 
+i:;i...          ,:i:                 ,i               ..::i:i:i:.                                               .                                    
+i:;i:..         ..:ir7.                ::             ,,::i:i:i:,                                               .                                     
+i,;i:,         ..::;;XX.                ,:           ::iiiii:ii:.                                                                                     
+i.i:i,.     . ..,:i;rrXX:                .,        .,:i;r;;iiii:.                                                                                     
+:.::,:.    ..,.,:iir;r7X               ,  ,,.. . ..,,ii;;rrr;;i:                                                                                      
+i.:,:,,.. ..,,::ii;;r;XS                : .::,,...,:::i;rr7rrii,                                                                                      
+i,::::,,...,,::ii;;;;7X;                ,  :::,,.,,::iirr777;;:.                                                                                      
+i,i:i::,,...,:::i;;;r77                 ., .i,,,,,::ii;;7r7;;i,                                                                                       
+i,ii::::::,,,::i;rr77Sr                  : .::,::::::ii;rriii:                                                                                        
+;,iii:i:i:i:::ii;;77Xi.                     ;:i:i:::ii;;ri::i,                                                                                        
+;:iii;i;i;i;;;i;;r77  ;                     iii;;iiiiiiiii,::,                                                                                        
+7i;i;;rrr;;;r;rr7r7r ,:                  .. i;;;;i;iiii::,,,,                                                                                         
+Xrrrr777r7r7r7rX7Xr7Xr                    . ,7;rrri;ii::,,..                                                                                          
+S77rXXXXX7X7X7X7XX77Xi                    , iX7r7;;ii::,,.                                                                                            
+SX7XXSXSXXXXXXXXXX777                    .: i2XXrrii:::,..                                                                                            
+S7XXXX222SSSSXSXXXX7:                     ; i2SX7;i::,,,.                                                                                             
+XXXSS22Zaa22S2SSXXrX.                     ; :2XXr;::.,.,                                                                                              
+S722a2aZZaa2222SSX77      .               r ;X7r;i:.. .                                                                                               
+SX222aaZZZaa2a22SS7X     ..               ;i;r;;ii,.                                                                                                  
+aSZaaaZaZaZaaaa2aSX7                     ,;ii:::i,.                                                                                                   
+aaZZaZaZaZZZZZaa22X7                     .,,.,,:,.                                                                                                    
+a2ZZZZZZZZ8Z8ZZ2a2Sr                      . . ..,..                                                                                                   
+aaZZZZZZZZZZZ8aaaZ2r                         ..,.,.                                                                                                   
+Za8Z8Z8ZZZZZZZZZ8S:                           ..,..                                                                                                   
+ZZZ888Z8ZZZZaaZ8:                            ..,..                                                                                                    
+Za88088ZZZZaa2Z7                                .                                                                                                     
+ZZ8880Z8ZZaZ22ar                                                                                                                                      
+ZZ08088ZZaZ22S2S                                                                                                                                      
+ZZ8888Z8ZZa2SSSZX                                                                                                                                     
+8a88888Z8aa2SSaX                                                                                                                                      
+ZZ888088ZZ22Sa;                                                                                                                                       
+8Z880808Zaaa2,                                                                                                                                        
+Z8808888ZaZZ,                                         .,.. ,..                                                                                        
+0800088ZZ8Z:                                          :::.,,:,.                                                                                       
+00000088B7                                           .:iii,::i,                                                                                       
+08B000B@2                                            .::;i:,::,.                                                                                      
+BBBB0WMa                                            .::iii::,,..                                                                                      
+B0WBBM8                                            .:i;iiii::,:..                                                                                     
+BBBW@Mi                                           .:i;;riiiiii,:.                                                                                     
+B0WWM:                                          .,:i;;r;;;;;;ii::,                                                                                    
+BBW@M7                                         .:;;r;r;r;rrr;;;;:i,.                                                                                  
+WBWMM                                          ,;;rr7rrrrr7rr;r;;i:.                                                                                  
+BWWM0                                          :i;;rr777r777rrr7;;:,                                                                                  
+WB@MMaMMWMMM8                                  .::;;7XXr77X77r777;;:.                                                                                 
+WW@MMMMMMMMMMi                                 ,,:irrX777XXX7X7X77;i,.                                                                                
+WW@@MMM@M@M@MW;i;i:                       ,ii::::i;;rr77X7XXXXXXSX7ii.                                                                                
+BW@M@MMMMM@M@MMMMMMM0X.        r;     : .rX7r7;r;rr7r7777XXXXSXXXX7ri:.                                                                               
+@W@@M@MMMMM@M@M@MWWW@MMMX     B@0    :BZZ2SXXXXXXXXXXXXXXXXXSSSXSXXr;:,                                                                               
+@@@M@MMMMMMMMM@@@@WWBWWM;    r@B0    r0a2a22S2Sa2a222a2222S2SSSSSSXX;;:.                                                                              
+M@MMMMMMMMMMMMM@M@@W@WMM     WWBW    2BZZaZaZZZZ8ZZZZZZZZZZaa2aS2SSX7r;:,                                                                             
+MMMMMMMMMMMMMMMMMM@@W@MW    rMW@Z    WB8Z8ZZZ8Z8808080808888ZZ22SSXX7;ii.                                                                             

@@ -1,0 +1,66 @@
+MMMMMMMMMMMMMMMMM@@@@WWBBBB000080008080008088ZZaa22XX77;;:.                                                                                         , 
+MMMMMMMMMMMMMMMMMM@@WWWB0B0888Z8Z8Z8Z8Z8Z8ZZaa22SSX7;;i:.                                                                                             
+MMMMMMMMMMMMMMMMMM@@@WWBBBB0088808888888888ZZZZaaSSX7;;i:.                                                                                          . 
+MMMMMMMMMMMMMMMMMM@@W@WWBB0088Z8Z8Z8808888Z8ZZaa22XXrrii:.                                                                                            
+MMMMMMMMMMMMMMMMM@M@@W@BWBB0088Z8Z888Z888888ZZZaaSS77;;::.                                                                                            
+MMMMMMMMMMMMMMMMMM@MW@WWBB0B0888Z8Z8Z8888888ZZZZ22XXrrii,.                                                                                            
+MMMMMMMMMMMMMMMMMMM@@@@WWBB0088Z8ZZZ8Z8888088ZZZaSSX7;;:,.                                                                                            
+MMMMMMMMMMMMMMMMMM@M@M@@BWBB0088Z8Z8Z880888088ZZa2XX7rii,.                                                                                            
+B0@MMMMMMMM@278MMMMMMMM@WBB000088Z8Z88080888888ZZ2SX7;;,,                                                                                             
+X:    ia8M:    ,MMMMMMMMM@BB0088Z8Z88080808088Z8a2SS7ri:..                                                                                            
+MMMMWai        0Wi    .:2M@00008888808000808888ZZ2SX7r;,,                                                                                             
+MMMMMMM:       .         7MW008088Z88080800088Z8Za2SXrii,.                                                                                            
+MMMMMM.                   @MB000088808000808088ZZaaSXr;i:.                                                                                            
+MMMMM,                    2BMB0000Z8808080808888ZZ22X7;i,,                                                                                            
+MMMMMBi  28                 M@B0088888000808888Z8ZaSS7ri:,.                                                                                           
+MMMMMMMMMMB                 ,MWB00888880808888Z8ZZ22SXrri:.                                                                                           
+MMMMMMMMMM2                  W@BB0880888088Z8Z8ZZZa2SX7;i:,                                                                                           
+MMMMMMMMMM7                ;MMWB008888800008ZZZZZZaaXX7r;i,.                                                                                          
+MMMMMMMMMMM                .WMMWB008088800B08ZZaZZa2SXXr;ii.                                                                                          
+MMMMMMMMMMMX                 ;WMMMB08880800088ZZaZaaSX77;i:,                                                                                          
+MMMMMMMMMMMM                    XWMB088Z08000ZZ2aaa2SXXr;::,                                                                                          
+MMMMMMMMMMMM                      aMWB88Z8808Za22222SX7;i:,,                                                                                          
+MMMMMMMMMMMM                       XMMW88ZZ88Z2SSS2XX7r;i..                                                                                           
+MMMMMMMMMMM2                         XWMW8ZZaaSSXSXX77;i:,..                                                                                          
+MMMMMMMMMMM                            :8W8ZZ22XX7777;;i:,,                                                                                           
+MMMMMMMMMM                               20ZaaSX77rr;;i::,..                                                                                          
+MMMMMMMMM                                rB2a2S77;;ii::,:.,.                                                                                          
+MMMMMMMM                                 0a2SSXX;;ii::,,..                                                                                            
+MMMMMMM                 ,               S82XX77r;ii:::,..                                                                                             
+MMMMMM                  :               aZXX7r;ri:,:,:..                                                                                              
+MMMMMi                 ZX   i           aZXrr;;ii:,.,.                                                                                                
+MMMM8                  M    Z;          XZX7rrii,:,,..                                                                                                
+MMMM                  XM    @Z          ;ZXrrii::,,..                                                                                                 
+MMMM                  MM:   @:          .0SX;;::,,,.                                                                                                  
+MMMM                 WMMS   :            ZZX7r;::,,.                                                                                                  
+MMMM                2MBM8                X82X7ri::..                                                                                                  
+MMMM               .MBB@X                 BaSX7;i,,                                                                                                   
+MMMM               BW0B8                  2B2S7r;i,.                                                                                                  
+MMMZ :      ;:.   SM08WB                  .WZ2Xrri:.                                                                                                  
+MMMB ;       @X   ZM80@X                   aBaXXr;:,                                                                                                  
+MMMM      W88i     BBW8                     WZ2X7;i,                                                                                                  
+MMMM0  ,rBMM,      BW@                      7B2X7ri:                                                                                                  
+MMMMMM2ZMMM.   2MB2WM;                       0ZXX;;:.                                                                                                 
+MMMMMMMMMMMS  :MWW@Ma                        ;0S7ri:,                                                                                                 
+MMMMMMMMM@MM  8MWBM0                          ZaXr;::.                                                                                                
+MMMMMMMMM@MM7 MMWMW                           :8X7;::,                                                                                                
+MMMMMMMMMMMMMMMWM@                             Xa7rii,.                                                                                               
+MMMMMMMMMM@M@@@MM                               aXr;ii,,                                                                                              
+MMMMMMMMM@M@MMMM                                XaXr;ii,.                                                                                             
+MMMMMMMMMM@MMMM                                  aS7r;i:,.                                                                                            
+MMMMMMMMMMMMMMi                                  .2XXr;i:,.                                                                                           
+MMMMMMMMMMMMM,                                    r2XXrrii,.                                                                                          
+MMMMMMMMMMM@                                      .aSX7rri:..                                                                                         
+MMMMMMMMMMM                                        SaXXXr;::.                                                                                         
+MMMMMMMMMM                                         ,ZSX77;;:,.                                                                                        
+MMMMMMMMM2                                          8aXX7rii::..                                                                                      
+MMMMMMMMX                                           BZSXXrrii,,.                                                                                      
+MMMMMMMM.                                           B022XX7rii,.                                                                                      
+MMMMMMMM                                            0W8Z2SX7r;i,,                                                                                     
+MMMMMMMB                                            Z@8ZZaSX7r;i::                                                                                    
+MMMMMMMMr@W:7SZZi                                ir7@BB00ZZ2SX7r;:.                                                                                   
+MMMMMMMMMMMMMMMMM.                              MMMM@WBB00ZZZ2X7;i.                                                                                   
+MMMMMMMMMMMMMMMMMM,,r2ZS.            ,777rr:,,XMMMM@@WWBB88ZZZaX7i:.                                                                                  
+MMMMMMMMMMMMMMMMMMMMMMMMX     :7     MMMMMMMMMMMMM@M@@WWB088ZZ2S7ri:                                                                                  
+MMMMMMMMMMMMMMMMMMMMMMMM.    @MM2    MMMMMMMMMMMMMM@@@@WW0B8ZZaSS77;i,                                                                              ,,
+MMMMMMMMMMMMMMMMMMMMMMMM     MMM8    MMMMMMMMMMMMMMMM@@WBB00ZZ222SX7;i.                                                                            .:i
